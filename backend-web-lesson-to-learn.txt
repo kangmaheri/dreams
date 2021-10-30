@@ -2,3 +2,5 @@
 - laravel
 - nodejs
 - npm
+- sql
+- mysql
