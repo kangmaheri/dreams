@@ -1,0 +1,4 @@
+Skills to learn
+- HTML
+- CSS
+- SCSS
