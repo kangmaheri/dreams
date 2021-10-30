@@ -2,3 +2,7 @@ Skills to learn
 - HTML
 - CSS
 - SCSS
+- SASS
+- JAVASCRIPT
+- REACT
+- VUE
