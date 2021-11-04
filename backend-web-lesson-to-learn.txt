@@ -4,4 +4,5 @@
 - npm
 - sql
 - mysql
-- redis
+- oop
+- data structure
