@@ -5,3 +5,5 @@
 - sql
 - mysql
 - redis
+- oop
+- functional programming
