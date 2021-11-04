@@ -4,5 +4,7 @@
 - npm
 - sql
 - mysql
-- oop
 - data structure
+- redis
+- oop
+- functional programming
